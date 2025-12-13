@@ -1,4 +1,4 @@
-!/bin/bash
+!/usr/bin/bash
 
 wp plugin install all-in-one-seo-pack --activate --allow-root
 wp plugin install all-in-one-wp-migration --activate --allow-root
