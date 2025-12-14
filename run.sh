@@ -41,6 +41,6 @@ THEMES=(
 
 for THEME in "${THEMES[@]}"; do
     echo "--- 開始安裝並啟用佈景主題：$THEME ---"
-    wp plugin install "$THEME" --activate --allow-root
+    wp theme install "$THEME" --activate --allow-root
 done
 echo "佈景主題安裝完成！"
