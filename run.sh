@@ -12,5 +12,6 @@ wp plugin install url-shortify --activate --allow-root
 wp plugin install w3-total-cache --activate --allow-root
 wp plugin install wp-mail-smtp --activate --allow-root
 wp plugin install wpforms-lite --activate --allow-root
+wp plugin install health-endpoint --activate --allow-root
 
 wp theme install astra --activate --allow-root
